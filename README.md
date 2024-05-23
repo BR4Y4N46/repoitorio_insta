@@ -12,7 +12,7 @@ Para utilizar este sistema de likes, simplemente sigue estos pasos:
 
 A continuación, se muestra un ejemplo de cómo se vería un botón de "like" en una publicación:
 
-![Ejemplo de Botón de Like](/path/to/like_button.png)
+![Ejemplo de Botón de Like](https://github.com/BR4Y4N46/repoitorio_insta/blob/main/ejemplo.JPG)
 
 ## Contribuciones
 
