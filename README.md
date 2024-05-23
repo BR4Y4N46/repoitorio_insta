@@ -20,7 +20,7 @@ A continuación, se muestra un ejemplo de cómo se vería un botón de "like" en
 
 ## Autor
 
-Este proyecto fue creado por [Tu Nombre](https://github.com/tu_usuario).
+Este proyecto fue creado por [Tu Nombre](https://github.com/BR4Y4N46).
 
 ## Licencia
 
